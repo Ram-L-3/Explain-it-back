@@ -16,7 +16,7 @@
   },
   {
     "code": "for i in range(5):\n    if i == 3:\n        break\n    print(i)",
-    "question": "What does this print, and why does it stop at 2?",     
+    "question": "What does this print, and why does the loop stop before 3?",     
     "answer": "It prints 0, 1, 2. The loop breaks when i equals 3, so it stops before printing 3."
   }
 ]
